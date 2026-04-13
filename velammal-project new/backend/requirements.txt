@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+gspread
+oauth2client
+Pillow
+pydantic
+pydantic-settings
+aiofiles
+groq
+pymongo
+dnspython
+openpyxl
+cloudinary
+pywin32; sys_platform == 'win32'
+opencv-python
+numpy
